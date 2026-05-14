@@ -3,9 +3,9 @@ layout: default
 title: About
 ---
 
-# About CyberPulse 30
+# About CyberPulse
 
-CyberPulse 30 was founded with a mission to bridge the gap between advanced artificial intelligence and practical cybersecurity applications. 
+CyberPulse was founded with a mission to bridge the gap between advanced artificial intelligence and practical cybersecurity applications. 
 
 ### Our Mission
 To empower developers and security professionals with the knowledge and tools needed to build more secure digital ecosystems.

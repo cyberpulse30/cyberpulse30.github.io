@@ -2,9 +2,9 @@
 layout: default
 ---
 
-![CyberPulse 30 Hero](/assets/images/hero.png)
+![CyberPulse Hero](/assets/images/hero.png)
 
-# Welcome to CyberPulse 30
+# Welcome to CyberPulse
 
 This is a space dedicated to sharing insights, research, and tutorials on **Artificial Intelligence** and **Cybersecurity**.
 

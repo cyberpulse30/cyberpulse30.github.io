@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Introduction to CyberPulse 30"
+title: "Introduction to CyberPulse"
 date: 2026-05-12 09:00:00 +0000
 categories: announcements
 ---
 
-Welcome to the first post of CyberPulse 30! 
+Welcome to the first post of CyberPulse! 
 
 Our goal is to create a community where security enthusiasts can learn, share, and grow. Whether you are a seasoned pro or just starting out, there's something here for you.
 

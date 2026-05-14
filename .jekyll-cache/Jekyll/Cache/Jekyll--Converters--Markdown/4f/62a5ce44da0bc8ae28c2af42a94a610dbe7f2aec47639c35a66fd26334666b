@@ -1,0 +1,34 @@
+I"]<p><img src="/assets/images/hero.png" alt="CyberPulse Hero" /></p>
+
+<h1 id="welcome-to-cyberpulse">Welcome to CyberPulse</h1>
+
+<p>This is a space dedicated to sharing insights, research, and tutorials on <strong>Artificial Intelligence</strong> and <strong>Cybersecurity</strong>.</p>
+
+<h3 id="latest-insights">Latest Insights</h3>
+<ul class="posts-list">
+  
+    <li>
+      <a href="/security/ai/2026/05/14/the-future-of-ai-in-pentesting.html">
+        <strong>The Future of AI in Penetration Testing</strong>
+        <span class="post-date">May 14, 2026</span>
+      </a>
+    </li>
+  
+    <li>
+      <a href="/security/webdev/2026/05/13/securing-your-web-applications.html">
+        <strong>Securing Your Web Applications</strong>
+        <span class="post-date">May 13, 2026</span>
+      </a>
+    </li>
+  
+    <li>
+      <a href="/announcements/2026/05/12/introduction-to-cyberpulse-30.html">
+        <strong>Introduction to CyberPulse</strong>
+        <span class="post-date">May 12, 2026</span>
+      </a>
+    </li>
+  
+</ul>
+
+<p>Stay tuned for regular updates and deep dives into the world of cyber security.</p>
+:ET
