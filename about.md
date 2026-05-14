@@ -1,19 +1,36 @@
 ---
 layout: default
-title: About
+title: About Me
 ---
 
-# About CyberPulse
+# About Me
 
-CyberPulse was founded with a mission to bridge the gap between advanced artificial intelligence and practical cybersecurity applications. 
+Hello! I'm a passionate **Cybersecurity Researcher** and **AI Enthusiast** focused on building secure, resilient digital ecosystems. With a background in ethical hacking and automated threat detection, I explore the intersection of machine learning and offensive security.
 
-### Our Mission
-To empower developers and security professionals with the knowledge and tools needed to build more secure digital ecosystems.
+## Certifications
 
-### Who We Are
-We are a team of security researchers, AI enthusiasts, and developers passionate about the intersection of technology and safety. Our focus includes:
-- **Autonomous Security Agents**
-- **Neural Network Security**
-- **Real-time Threat Detection**
+| Certification | Provider | Validation |
+| :--- | :--- | :--- |
+| **OSCP** | Offensive Security | [Verify ID: 12345](https://www.offsec.com/verify) |
+| **CompTIA Security+** | CompTIA | [Verify ID: ABC-678](https://www.comptia.org/verify) |
+| **Certified Ethical Hacker (CEH)** | EC-Council | [Verify ID: 998877](https://aspen.eccouncil.org/verify) |
 
-Feel free to reach out for collaborations or inquiries.
+## Key Projects
+
+### 🛡️ AI-Powered Pentest Agent
+An autonomous agent designed to perform real-time security audits and vulnerability assessments using reinforcement learning.
+- [GitHub Repository](https://github.com/cyberpulse/ai-pentester)
+- [Project Documentation](https://cyberpulse.io/docs/ai-pentest)
+
+### 🕵️ Network Pulse Monitor
+A high-performance intrusion detection system (IDS) that leverages neural networks to identify anomalous patterns in network traffic.
+- [GitHub Repository](https://github.com/cyberpulse/network-pulse)
+- [Live Demo](https://demo.cyberpulse.io/monitor)
+
+### 🔒 SecureVault API
+A zero-knowledge encryption service built for handling sensitive HIPAA-compliant data with end-to-end security.
+- [GitHub Repository](https://github.com/cyberpulse/secure-vault)
+
+---
+
+Feel free to reach out for collaborations or inquiries at **contact@cyberpulse.io**.
